@@ -12,8 +12,8 @@
 
 <h2> Amazon Web Services (AWS) Projects</h2>
 
-- <b> Hosting Wordpress website using EC2
-  -[description here]
+- <b> Hosting Wordpress website using EC2 </b>
+  -[Website hosting using EC2](https://github.com/Devmur24/Host-Wordpress-Website-on-EC2)
 - <b> Image Label Generator using AWS Rekognition
 - <b> Language Translation Bot
 - <b> AWS Security Operations Center
